@@ -1,4 +1,4 @@
-# Aurora — E-Commerce Product App (Project 02)
+# Aurora — E-Commerce Product App
 
 A full-stack product listing app: React (Vite + Tailwind + Framer Motion) frontend, Express/Node backend, MongoDB via Mongoose. Search, category/price filters, a persistent shopping cart, and a JWT-protected admin panel with full product CRUD.
 
